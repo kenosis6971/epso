@@ -1,0 +1,90 @@
+Configuration: W 0.729 C1 1.49445 C2 1.49445 Q None
+
+Begin particle swarm optimization using Python demo
+
+Goal is to solve Rastrigin's function in 3 variables
+Function has known min = 0.0 at (
+0, 
+0, 
+0)
+Setting num_particles = 50
+Setting max_epochs    = 100
+
+Starting PSO algorithm
+
+Epoch = 10 best error = 8.463
+Epoch = 20 best error = 4.792
+Epoch = 30 best error = 2.223
+Epoch = 40 best error = 0.251
+Epoch = 50 best error = 0.251
+Epoch = 60 best error = 0.061
+Epoch = 70 best error = 0.007
+Epoch = 80 best error = 0.005
+Epoch = 90 best error = 0.000
+
+PSO completed
+
+
+Best solution found:
+
+
+ 
+0.0006
+ 
+ 
+0.0000
+ 
+ 
+0.0006
+ 
+
+
+Error of best solution = 0.000151
+0.000151
+
+End particle swarm demo
+
+Configuration: W 0.499382 C1 1.71425 C2 0.733686 Q None
+
+Begin particle swarm optimization using Python demo
+
+Goal is to solve Rastrigin's function in 3 variables
+Function has known min = 0.0 at (
+0, 
+0, 
+0)
+Setting num_particles = 50
+Setting max_epochs    = 100
+
+Starting PSO algorithm
+
+Epoch = 10 best error = 3.733
+Epoch = 20 best error = 0.153
+Epoch = 30 best error = 0.026
+Epoch = 40 best error = 0.001
+Epoch = 50 best error = 0.000
+Epoch = 60 best error = 0.000
+Epoch = 70 best error = 0.000
+Epoch = 80 best error = 0.000
+Epoch = 90 best error = 0.000
+
+PSO completed
+
+
+Best solution found:
+
+
+-0.0000
+ 
+-0.0000
+ 
+ 
+0.0000
+ 
+
+
+Error of best solution = 0.000000
+0.000000
+
+End particle swarm demo
+
